@@ -50,7 +50,7 @@ The contract implements two functions:
 
 **Deployment Information**
 
-- Contract Address: 0xE1222109b7BA4f57E162D8D33B611B0b1FC6Ff45
+- Contract Address: 0x82A1780508594d3613e80dF2Da3791a90912de56
 - Deployment Transaction Hash: 0x8fe2e08f8af33127fb1ed013c00e8c790e2947d481d3ab6d7c03a8cae31115ad
 - Function Transaction Hash:
 0x70c71cace2e7e87a1d3e1d2e4f8954aa4fd54ad8904c9318fea1a1b1c3513ac2
